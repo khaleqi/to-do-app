@@ -1,0 +1,11 @@
+.editButton {
+    border: 1px solid green
+}
+
+.greenLeftBorder {
+    border-left: 6px solid #008000
+}
+
+.redLeftBorder {
+    border-left: 6px solid #ff0000
+}
